@@ -1,0 +1,82 @@
+IQCS16 Spectrum offline toolkit: third-party components
+Original distributions and their license files are preserved.
+
+altgraph 0.17.5
+Distribution: packages/wheels/altgraph-0.17.5-py2.py3-none-any.whl
+License file: licenses/altgraph/altgraph-0.17.5.dist-info/LICENSE
+
+numpy 2.2.3
+Distribution: packages/wheels/numpy-2.2.3-cp312-cp312-win_amd64.whl
+License file: licenses/numpy/numpy/ma/LICENSE
+License file: licenses/numpy/numpy/random/LICENSE.md
+License file: licenses/numpy/numpy/_core/include/numpy/random/LICENSE.txt
+License file: licenses/numpy/numpy-2.2.3.dist-info/LICENSE.txt
+
+packaging 26.3
+Distribution: packages/wheels/packaging-26.3-py3-none-any.whl
+License expression: Apache-2.0 OR BSD-2-Clause
+License file: licenses/packaging/packaging-26.3.dist-info/licenses/LICENSE
+License file: licenses/packaging/packaging-26.3.dist-info/licenses/LICENSE.APACHE
+License file: licenses/packaging/packaging-26.3.dist-info/licenses/LICENSE.BSD
+
+pefile 2024.8.26
+Distribution: packages/wheels/pefile-2024.8.26-py3-none-any.whl
+License file: licenses/pefile/pefile-2024.8.26.dist-info/LICENSE
+
+pip 25.0.1
+Distribution: packages/wheels/pip-25.0.1-py3-none-any.whl
+License file: licenses/pip/pip-25.0.1.dist-info/LICENSE.txt
+
+pyinstaller 6.22.0
+Distribution: packages/wheels/pyinstaller-6.22.0-py3-none-win_amd64.whl
+License file: licenses/pyinstaller/pyinstaller-6.22.0.dist-info/licenses/COPYING.txt
+
+pyinstaller-hooks-contrib 2026.8
+Distribution: packages/wheels/pyinstaller_hooks_contrib-2026.8-py3-none-any.whl
+License file: licenses/pyinstaller-hooks-contrib/pyinstaller_hooks_contrib-2026.8.dist-info/licenses/LICENSE
+
+PyQt5 5.15.11
+Distribution: packages/wheels/PyQt5-5.15.11-cp38-abi3-win_amd64.whl
+
+PyQt5-Qt5 5.15.2
+Distribution: packages/wheels/PyQt5_Qt5-5.15.2-py3-none-win_amd64.whl
+License file: licenses/PyQt5-Qt5/PyQt5_Qt5-5.15.2.dist-info/LICENSE
+
+PyQt5_sip 12.20.0
+Distribution: packages/wheels/pyqt5_sip-12.20.0-cp312-cp312-win_amd64.whl
+License file: licenses/PyQt5_sip/pyqt5_sip-12.20.0.dist-info/licenses/LICENSE
+
+pyqtgraph 0.13.7
+Distribution: packages/wheels/pyqtgraph-0.13.7-py3-none-any.whl
+License file: licenses/pyqtgraph/pyqtgraph-0.13.7.dist-info/LICENSE.txt
+
+pywin32-ctypes 0.2.3
+Distribution: packages/wheels/pywin32_ctypes-0.2.3-py3-none-any.whl
+License file: licenses/pywin32-ctypes/pywin32_ctypes-0.2.3.dist-info/LICENSE.txt
+
+setuptools 84.0.0
+Distribution: packages/wheels/setuptools-84.0.0-py3-none-any.whl
+License expression: MIT
+License file: licenses/setuptools/setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.APACHE
+License file: licenses/setuptools/setuptools/_vendor/packaging-26.0.dist-info/licenses/LICENSE.BSD
+License file: licenses/setuptools/setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt
+License file: licenses/setuptools/setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/config/NOTICE
+License file: licenses/setuptools/setuptools/config/_validate_pyproject/NOTICE
+License file: licenses/setuptools/setuptools-84.0.0.dist-info/licenses/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE
+License file: licenses/setuptools/setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE
+
+CPython 3.12.10 x64
+Source: https://www.nuget.org/packages/python/3.12.10
+Distribution: packages/python-3.12.10-amd64.zip
+License file: licenses/CPython/tools/LICENSE.txt
+License file: licenses/CPython/tools/Lib/site-packages/pip-25.0.1.dist-info/LICENSE.txt
